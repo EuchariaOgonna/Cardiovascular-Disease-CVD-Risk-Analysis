@@ -7,6 +7,7 @@
 - [Limitations](#limitations)
   
 ##  Project Overview
+
 This project uses Python to explore, clean, and model cardiovascular disease risk using a real-world patient dataset. The goal is to identify key risk indicators and predict the likelihood of cardiovascular disease (CVD) using logistic regression. it applies **exploratory data analysis**, **data visualization**, and **logistic regression modeling** to a real-world dataset to:
 - Understand risk factors behind CVD.
 - Uncover trends related to age, gender, and lifestyle.
