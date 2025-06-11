@@ -5,7 +5,7 @@
 - [Exploratory Analysis](#exploratory-analysis)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
--   
+  
 ##  Project Overview
 This project uses Python to explore, clean, and model cardiovascular disease risk using a real-world patient dataset. The goal is to identify key risk indicators and predict the likelihood of cardiovascular disease (CVD) using logistic regression. it applies **exploratory data analysis**, **data visualization**, and **logistic regression modeling** to a real-world dataset to:
 - Understand risk factors behind CVD.
@@ -121,6 +121,10 @@ Key health indicators such as:
 
 🌍 4. No Socioeconomic or Regional Context
 There is no information on region, income, education, or dietary habits, which are known social determinants of cardiovascular health.
+## view the code here!!!!!!!
+[![Open In Colab]( https://colab.research.google.com/drive/1-xM-4wTFAPAEeGv1pzTdb2kZTUme4VLm?usp=sharing)](YOUR_NOTEBOOK_LINK_HERE)
+
+
 
 
 
