@@ -123,8 +123,8 @@ Key health indicators such as:
 🌍 4. No Socioeconomic or Regional Context
 There is no information on region, income, education, or dietary habits, which are known social determinants of cardiovascular health.
 ## view the code here!!!!!!!
-[![Open In Colab]( https://colab.research.google.com/drive/1-xM-4wTFAPAEeGv1pzTdb2kZTUme4VLm?usp=sharing)](YOUR_NOTEBOOK_LINK_HERE)
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/EuchariaOgonna/Cardiovascular-Disease-CVD-Risk-Analysis/blob/main/Cardiovascular_Disease_(CVD)_Analysis.ipynb)
 
 
 
