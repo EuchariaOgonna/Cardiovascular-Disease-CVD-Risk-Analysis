@@ -75,12 +75,22 @@ Based on the data, high-risk individuals are:
 ### Performance:
 | Metric      | Score     |
 |-------------|-----------|
-| Accuracy    | 72.5%     |
-| Precision   | 75%       |
-| Recall      | 67%       |
+| Accuracy    | 72.2%     |
+| Precision   | 74%       |
+| Recall      | 68%       |
 | F1 Score    | 71%       |
+## Interpretation of the performance metrics
+- Accuracy (72.27%): The model predicts correctly in most cases.
+- Precision (74%): When it predicts CVD, it's usually right, few false alarms.
+- Recall (68%): It finds most real CVD cases, but misses some.
+- F1 Score (71%): A good balance between catching CVD and avoiding false positives, it shows that the model is reasonably reliable.
+##  Overall: A solid baseline model precise and balanced, though recall could be improved for better risk detection.
 
-✅ Balanced results — great for early warning systems
+## Why Logistic Regression Was Used
+- It's a classic baseline model for classification.
+- Great for interpreting health risk factors.
+- Performs well when features are numeric and scaled.
+- Produces clear, measurable metrics like precision, recall, and accuracy.
 
 ##  Recommendations
 ## For Healthcare Administrators:
